@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá, eu sou Pedro Henrique 👋
 
-<!--
-**PedroStaino/PedroStaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 15 anos e estudo Informática para Internet.
+Estou aprendendo programação, GitHub e desenvolvimento web.
+Gosto de tecnologia, jogos e edição.
+Meu objetivo é trabalhar com programação futuramente.
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- arquitetura de software
+- portugol
+- Git e GitHub
+
+## Objetivos
+
+Quero aprender mais sobre programação e trabalhar na área de tecnologia.
